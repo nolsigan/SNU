@@ -39,3 +39,9 @@ Inductive nat : Type :=
 ## Questions
 
 * even에서 끝까지 돌려봐서 even 1이 false인지 확인하나?
+
+> even 0는 0이 짝수라는 증명이 존재한다는 뜻.
+>
+> 2씩 더해가며 그다음 수가 짝수라는 것을 증명해나간다.
+>
+> 따라서 True. False 개념이 아니다.
