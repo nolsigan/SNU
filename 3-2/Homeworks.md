@@ -18,9 +18,4 @@
 
 ## Project2
 
-#### Basic studies about Neural networks & Deep learning
-
-* Until : 2016.03.11 (FRI) 4:30 PM
-
-
 ## Social Network Analysis
