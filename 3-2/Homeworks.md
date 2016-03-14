@@ -16,4 +16,9 @@
 
 ## Project2
 
+#### Studying neural networks & deep learning
+
+* Two Chapters every week
+* Summary meetings every Friday
+
 ## Social Network Analysis
