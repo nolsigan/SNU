@@ -22,3 +22,7 @@
 * Summary meetings every Friday
 
 ## Social Network Analysis
+
+#### First Quiz
+
+* On March 22
