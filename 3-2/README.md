@@ -14,11 +14,6 @@
 
 ## Programming Languages
 
-#### Assignment 01
-
-* Until 0320 23:59 PM
-* 70 point
-
 ## Project2
 
 #### Studying neural networks & deep learning
