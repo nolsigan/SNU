@@ -11,6 +11,7 @@
 * Project plan until 3/24
 * if 보강 : 목 6시 30분
 * For good grade : 학회 쪽 찾아봐서 프로젝트 주제
+* Course site : http://popeye.snu.ac.kr/
 
 ## Topics
 
