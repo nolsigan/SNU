@@ -15,6 +15,7 @@
 
 #### Project 1
 
+* 1. Follow ppt
 * 2. Write a new system call in Linux
     * => return the process tree info in a DFS order
     * Until : 2016.03.28 (MON) 8:59 PM
