@@ -7,8 +7,7 @@
 * Tibero 설치
 * Ch3에 있는 모든 sql statement를 Tibero에 돌려서 수행여부, 스크린덤프, 설명을 포함한 PPT 제출
     * PPT should be informative, interesting, intuitive
-* Until 3/25 11:59 PM
-* Team meeting at 3/22 12:01 PM
+* Until 3/27 11:59 PM
 
 ## Data Communications
 
@@ -31,7 +30,3 @@
 * Summary meetings every Friday
 
 ## Social Network Analysis
-
-#### First Quiz
-
-* On March 22
