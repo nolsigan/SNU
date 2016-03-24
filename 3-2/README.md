@@ -11,6 +11,11 @@
 
 ## Data Communications
 
+#### Problems in Chapter 2 (pp. 88 - 89)
+
+* 2.3, 2.5, 2.7, 2.8
+* Until 3/28
+
 ## Operating System
 
 #### Project 1
