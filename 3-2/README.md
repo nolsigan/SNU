@@ -2,28 +2,21 @@
 
 ## DB
 
-#### Project 1
+#### Project 2
 
-* Tibero 설치
-* Ch3에 있는 모든 sql statement를 Tibero에 돌려서 수행여부, 스크린덤프, 설명을 포함한 PPT 제출
+* Ch4에 있는 모든 sql statement를 Tibero에 돌려서 수행여부, 스크린덤프, 설명을 포함한 PPT 제출
     * PPT should be informative, interesting, intuitive
-* Until 3/27 11:59 PM
+* Until 4/3 11:59 PM
 
 ## Data Communications
 
-#### Problems in Chapter 2 (pp. 88 - 89)
-
-* 2.3, 2.5, 2.7, 2.8
-* Until 3/28
-
 ## Operating System
 
-#### Project 1
+#### Rotation Lock
 
-* 1. Follow ppt
-* 2. Write a new system call in Linux
-    * => return the process tree info in a DFS order
-    * Until : 2016.03.28 (MON) 8:59 PM
+* due : 4/20 8:59PM
+* design review : 4/11
+* project session 4/7
 
 ## Programming Languages
 
@@ -35,3 +28,7 @@
 * Summary meetings every Friday
 
 ## Social Network Analysis
+
+#### Quiz 2
+
+* 3/31
