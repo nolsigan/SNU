@@ -2,6 +2,10 @@
 
 ## DB
 
+#### Midterm
+
+* 4/4 in class
+
 #### Project 2
 
 * Ch4에 있는 모든 sql statement를 Tibero에 돌려서 수행여부, 스크린덤프, 설명을 포함한 PPT 제출
