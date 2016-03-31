@@ -32,7 +32,3 @@
 * Summary meetings every Friday
 
 ## Social Network Analysis
-
-#### Quiz 2
-
-* 3/31
